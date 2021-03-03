@@ -1,8 +1,8 @@
 ### Hi there 👋... this is the profile page of NK
 
-- 🔭 I’m currently working on building some side projects on MERN stack.
-- 🌱 I’m currently learning quantum computation with qiskit.
-- 👯 I am an associate software engineer at [Fusemachines Nepal](https://fusemachines.com/).
+- 🔭 I’m currently working on building some side projects on MERN stack
+- 🌱 I’m currently learning quantum computation with qiskit
+- 👯 I am an associate software engineer at [Fusemachines Nepal](https://fusemachines.com/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: hmmm 🤔...
 

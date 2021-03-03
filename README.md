@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning quantum computation with qiskit.
 - 👯 I am an associate software engineer at [Fusemachines Nepal](https://fusemachines.com/).
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: hmmm 🤔
+- ⚡ Fun fact: hmmm 🤔...
 
 <!--
 **annkay108/annkay108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

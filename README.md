@@ -1,4 +1,4 @@
-### Hi there 👋 this is the profile page of NK
+### Hi there 👋... this is the profile page of NK
 
 - 🔭 I’m currently working on building some side projects on MERN stack.
 - 🌱 I’m currently learning quantum computation with qiskit.
